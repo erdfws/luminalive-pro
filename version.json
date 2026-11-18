@@ -1,0 +1,11 @@
+{
+  "testflight": {
+    "version": "1.0",
+    "build": 6,
+    "notes": {
+      "zh-Hans": "优化日系、冷白、奶油、樱粉、森系五款滤镜，画面更通透。",
+      "en": "Clearer Airy, Cool White, Cream, Blush and Forest looks."
+    },
+    "url": "https://testflight.apple.com/join/jjWT4TMp"
+  }
+}
